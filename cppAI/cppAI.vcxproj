@@ -131,12 +131,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cppAI.cpp" />
     <ClCompile Include="openai.cpp" />
     <ClCompile Include="utility.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cppai.h" />
     <ClInclude Include="openai.h" />
     <ClInclude Include="utility.h" />
   </ItemGroup>
