@@ -1,1 +1,1 @@
-﻿# OpenAI API C++ client
+﻿# OpenAI API async C++ client
